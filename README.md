@@ -2,9 +2,9 @@
 
 This repository contains a full-stack application built with a Node.js backend, React frontend, and MongoDB database. The project demonstrates a typical MERN (MongoDB, Express, React, Node.js) stack application with RESTful APIs and frontend integration.
 
-## Website Link 
+# Website Link 
 
-[Product_store](https://full-stack-project-1-6olo.onrender.com)
+## [Product_store](https://full-stack-project-1-6olo.onrender.com)
 
 ## Features
 - **Backend**: A Node.js server with Express for creating RESTful APIs.
@@ -101,16 +101,16 @@ full_stack_project/
 Here are some screenshots of the application:
 
 ### Homepage in Dark Mode
-![Homepage](assets/Home_Page-1.png)
-![Homepage2](assets/Home_Page-2.png)
+![Homepage](/assets/Home_Page-1.png)
+![Homepage2](/assets/Home_Page-2.png)
 ### Homepage in Light Mode
-![Homepage](assets/Home_Page-3.png)
+![Homepage](/assets/Home_Page-3.png)
 
 ### Createpage
-![Createpage](assets/create_page-1.png)
+![Createpage](/assets/Create_Page-1.png)
 
 ### Features in Action
-![Upadte](assets/upadte_feature.png)
+![Upadte](/assets/Update_Feature.png)
 
 ---
 
