@@ -1,10 +1,10 @@
 # Full Stack Project
 
-This repository contains a full-stack application built with a Node.js backend, React frontend, and MongoDB database. The project demonstrates a typical MERN (MongoDB, Express, React, Node.js) stack application with RESTful APIs and frontend integration.
+The Full Stack Project is a feature-rich web application designed to showcase the seamless integration of a modern frontend with a robust backend. Built using the MERN stack (MongoDB, Express, React, Node.js), this platform demonstrates a variety of functionalities, including user-friendly navigation, responsive design, and dynamic data handling. The live version of the application is hosted at [Full Stack Project Demo](https://full-stack-project-1-6olo.onrender.com/), offering users an interactive experience to explore its features in real time.
 
-# Website Link 
+## Website Link 
 
-## [Product_store](https://full-stack-project-1-6olo.onrender.com)
+## [Product_Store](https://full-stack-project-1-6olo.onrender.com)
 
 ## Features
 - **Backend**: A Node.js server with Express for creating RESTful APIs.
