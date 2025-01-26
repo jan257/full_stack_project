@@ -102,7 +102,7 @@ Here are some screenshots of the application:
 
 ### Homepage in Dark Mode
 ![Homepage](/assets/Home_Page-1.png)
-![Homepage2](/assets/Home_page-2.png)
+
 
 ### Homepage in Light Mode
 ![Homepage](/assets/Home_Page-3.png)
