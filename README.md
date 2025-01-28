@@ -6,6 +6,7 @@ The Full Stack Project is a feature-rich web application designed to showcase th
 
 ## [Product_Store](https://full-stack-project-1-6olo.onrender.com)
 
+
 ## Features
 - **Backend**: A Node.js server with Express for creating RESTful APIs.
 - **Frontend**: A React application for a responsive user interface.
